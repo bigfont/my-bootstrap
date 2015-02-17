@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Bootstrap](http://getbootstrap.com)
 ![Bower version](https://img.shields.io/bower/v/bootstrap.svg?style=flat)
 [![npm version](https://img.shields.io/npm/v/bootstrap.svg?style=flat)](https://www.npmjs.com/package/bootstrap)
@@ -130,3 +131,7 @@ For transparency into our release cycle and in striving to maintain backward com
 ## Copyright and license
 
 Code and documentation copyright 2011-2015 Twitter, Inc. Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+=======
+# my-bootstrap
+My version of bootsrap.
+>>>>>>> d8aff37429ad8e52d867abbde7cf3da477ba8d9e
